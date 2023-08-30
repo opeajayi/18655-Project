@@ -1,4 +1,4 @@
-# 18655-Project
+# African Style: Personalizing Stable Diffusion for Text-to-Image generation using Textual Inversion
 
 
 ### Abstracts
