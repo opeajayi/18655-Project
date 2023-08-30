@@ -1,4 +1,5 @@
 # African Style: Personalizing Stable Diffusion for Text-to-Image generation using Textual Inversion
+### Bias in Text-to-Image models
 
 ![Final-African-Textual-Inversion Architecture](https://github.com/opeajayi/18655-Project/assets/87567056/532778cc-dec6-44c0-a706-ad246d2eb7ba)
 
