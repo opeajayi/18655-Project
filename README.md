@@ -26,6 +26,4 @@ For the textual inversion task of this project, we made use of self-curated Afri
 
 Here are some generated samples: 
 ![ibrah](https://github.com/opeajayi/18655-Project/assets/87567056/a32f6a08-92eb-4c98-be1b-dcd85e6a75e7)
-![kon](https://github.com/opeajayi/18655-Project/assets/87567056/890a715d-7b85-4f70-9043-edb03f8e85a7)
-![modern](https://github.com/opeajayi/18655-Project/assets/87567056/c505dfe2-d12c-4430-b35d-af0d64551004)
-![keke](https://github.com/opeajayi/18655-Project/assets/87567056/8ccff38d-cb2d-4887-a2e4-fbd75cec6523)
+
