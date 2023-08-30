@@ -22,4 +22,6 @@ This repo contains the official code , data and sample inversions for African st
 ### Datasets
 The pretrained model was trained on the LAION-5b dataset. The dataset contains 5.85 billion CLIP-filtered image-text pairs. It consists of 2.3 billion English language samples, 2.2 billion samples from 100+ other languages and 1 billion samples have texts that do not allow a certain language assignment (e.g. names). For the first task, we made use of the Stable Diffusion model pre-trained on this dataset to generate images based on textual prompts. 
 
-For the textual inversion task of this project, we made use of self-curated African images with pixel size of 512 x 512 as training data to be supplied to the model. The images used were obtained from open-source high-quality websites to ensure that the images used are clear and of a resolution that does not reduce the performance of the model. Below are some of the textual inversion datasets: 
+For the textual inversion task of this project, we made use of self-curated African images with pixel size of 512 x 512 as training data to be supplied to the model. The images used were obtained from open-source high-quality websites to ensure that the images used are clear and of a resolution that does not reduce the performance of the model. 
+
+Here are some generated samples: 
