@@ -16,6 +16,9 @@ Artificial intelligence research in the area of computer vision teaches machines
 
 ![Final-African-Textual-Inversion Architecture](https://github.com/opeajayi/18655-Project/assets/87567056/532778cc-dec6-44c0-a706-ad246d2eb7ba)
 
+### Description
+This repo contains the official code , data and sample inversions for African style personalization of text-to-image  using textual inversion.
+
 ### Datasets
 The pretrained model was trained on the LAION-5b dataset. The dataset contains 5.85 billion CLIP-filtered image-text pairs. It consists of 2.3 billion English language samples, 2.2 billion samples from 100+ other languages and 1 billion samples have texts that do not allow a certain language assignment (e.g. names). For the first task, we made use of the Stable Diffusion model pre-trained on this dataset to generate images based on textual prompts. 
 
