@@ -5,6 +5,7 @@
 
 ![bias](https://github.com/opeajayi/18655-Project/assets/87567056/e2646966-53e9-40b0-8550-ab81679a3dae)
 
+
 ![bias2](https://github.com/opeajayi/18655-Project/assets/87567056/b2847976-765d-4e36-af01-1f1cbcc0575a)
 
  
