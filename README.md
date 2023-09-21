@@ -2,6 +2,9 @@
 
 
 ### Bias in Text-to-Image models: Stable diffusion
+![bias](https://github.com/opeajayi/18655-Project/assets/87567056/00369dd8-d8f6-4f89-877e-8e39f06dde54)
+
+![bias2](https://github.com/opeajayi/18655-Project/assets/87567056/f7b119f6-ec8e-446f-a534-5931e84bf13e)
 
 
 
