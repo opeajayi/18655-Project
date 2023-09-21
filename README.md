@@ -3,12 +3,7 @@
 
 ### Bias in Text-to-Image models: Stable diffusion
 
-![bias](https://github.com/opeajayi/18655-Project/assets/87567056/e2646966-53e9-40b0-8550-ab81679a3dae)
 
-
-![bias2](https://github.com/opeajayi/18655-Project/assets/87567056/b2847976-765d-4e36-af01-1f1cbcc0575a)
-
- 
 
 
 
@@ -26,5 +21,6 @@ The pretrained model was trained on the LAION-5b dataset. The dataset contains 5
 For the textual inversion task of this project, we made use of self-curated African images with pixel size of 512 x 512 as training data to be supplied to the model. The images used were obtained from open-source high-quality websites to ensure that the images used are clear and of a resolution that does not reduce the performance of the model. 
 
 Here are some generated samples: 
-![ibrah](https://github.com/opeajayi/18655-Project/assets/87567056/a32f6a08-92eb-4c98-be1b-dcd85e6a75e7)
+
+
 
