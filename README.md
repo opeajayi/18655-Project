@@ -20,6 +20,7 @@ The pretrained model was trained on the LAION-5b dataset. The dataset contains 5
 For the textual inversion task of this project, we made use of self-curated African images with pixel size of 512 x 512 as training data to be supplied to the model. The images used were obtained from open-source high-quality websites to ensure that the images used are clear and of a resolution that does not reduce the performance of the model. 
 
 Here are some generated samples: 
+![ibrah](https://github.com/opeajayi/18655-Project/assets/87567056/403d5a44-c110-4671-b950-95b381f23c5f)
 
 
 
